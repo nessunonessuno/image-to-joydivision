@@ -2,7 +2,7 @@ use image::GenericImageView;
 use nannou::prelude::*;
 
 const FILE_NAME: &str = "test.jpg";
-const STEP_SIZE: usize = 3;
+const STEP_SIZE: usize = 5;
 
 struct Model {}
 fn main() {
